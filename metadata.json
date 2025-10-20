@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Calorie Logger",
+  "description": "A comprehensive Gemini-powered food calorie logging application that uses natural language and image recognition to track your diet. Features include a detailed dashboard, calendar view, and an editable log sheet.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
